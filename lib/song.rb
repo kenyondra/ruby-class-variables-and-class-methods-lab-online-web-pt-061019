@@ -29,6 +29,6 @@ class Genres
   end
   
 class artist 
-  attr_accessor :name, 
+  attr_accessor :name, :songs, 
   
   
