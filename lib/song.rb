@@ -26,5 +26,7 @@ class Genres
   def initialize(name)
     @name = name 
     @songs = []
+  end
+  
   
   
