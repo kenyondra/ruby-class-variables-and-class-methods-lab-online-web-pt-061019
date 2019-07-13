@@ -16,7 +16,7 @@ class Song
   
   def genre 
     @genre = genre
-    genre.songs << 
+    genre.songs << self 
 class Song
   
   @@count = 0 
