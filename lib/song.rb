@@ -44,6 +44,6 @@ class artist
   end
   
   def Genres
-    
+    songs.collect 
   
   
