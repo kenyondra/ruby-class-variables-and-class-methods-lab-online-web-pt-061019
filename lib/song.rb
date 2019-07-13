@@ -38,6 +38,6 @@ class artist
     @songs = []
   end
   
-  def 
+  def add_song
   
   
