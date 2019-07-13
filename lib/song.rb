@@ -9,7 +9,7 @@ class Song
     self.genre = genre if genre 
   end
   
-  
+  def artist 
   
 class Song
   
