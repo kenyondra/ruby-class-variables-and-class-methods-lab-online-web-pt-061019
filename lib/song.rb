@@ -28,5 +28,7 @@ class Genres
     @songs = []
   end
   
+class artist 
+  
   
   
