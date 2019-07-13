@@ -33,5 +33,6 @@ class artist
   
   @@all = []
   
+  def initialize 
   
   
