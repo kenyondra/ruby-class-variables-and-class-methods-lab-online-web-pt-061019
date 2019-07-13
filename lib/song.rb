@@ -45,6 +45,6 @@ class artist
   
   def Genres
     songs.collect{ |s| s.genre }.uniq 
-    
+  end
   
   
