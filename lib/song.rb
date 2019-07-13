@@ -21,5 +21,6 @@ class Song
 end
 
 class Genres 
+  attr_accessor 
   
   
