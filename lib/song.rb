@@ -15,7 +15,8 @@ class Song
   end
   
   def genre 
-    @genre
+    @genre = genre
+    
 class Song
   
   @@count = 0 
