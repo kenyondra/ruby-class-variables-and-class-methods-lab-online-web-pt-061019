@@ -23,5 +23,6 @@ end
 class Genres 
   attr_accessor :name, :songs 
   
+  def initialize 
   
   
